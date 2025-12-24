@@ -82,5 +82,53 @@ namespace FurniMpa201.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Update(int id)
+        {
+            var employee = _context.Employees.FirstOrDefault(e => e.Id == id);
+            if (employee == null) return NotFound("Employee is not found!");
+            return View(employee);
+        }
+        [HttpPost]
+        public IActionResult Update(Employee employee)
+        {
+            var existEmployee = _context.Employees.FirstOrDefault(e => e.Id == employee.Id);
+            if (existEmployee == null) return NotFound("Employee is not found!");
+            if (!ModelState.IsValid) return View(employee);
+            existEmployee.FirstName = employee.FirstName;
+            existEmployee.LastName = employee.LastName;
+            existEmployee.Position = employee.Position;
+            existEmployee.Description = employee.Description;
+            existEmployee.ImageUrl = employee.ImageUrl;
+            existEmployee.ImageName = employee.ImageName;
+            existEmployee.UpdatedDate = DateTime.UtcNow.AddHours(4);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpPost]
+        public IActionResult SoftDelete(int id)
+        {
+            var employee = _context.Employees.FirstOrDefault(p => p.Id == id);
+            if (employee == null) return NotFound();
+
+            employee.IsDeleted = !employee.IsDeleted;
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult Restore(int id)
+        {
+            var employee = _context.Employees.FirstOrDefault(p => p.Id == id);
+            if (employee == null) return NotFound("employee is not found!");
+            employee.IsDeleted = false;
+            employee.UpdatedDate = DateTime.UtcNow.AddHours(4);
+            _context.Update(employee);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }
