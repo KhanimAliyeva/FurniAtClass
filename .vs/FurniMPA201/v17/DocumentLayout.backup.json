@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\FurniMPA201\\Migrations\\20251225112345_ListAddedToEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251225112345_ListAddedToEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +45,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\FurniMPA201\\Migrations\\20251225103513_TablesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251225103513_TablesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1149A75F-F44B-4A57-9DDB-F3CA36FAD54C}|FurniMpa201.csproj|c:\\users\\student\\source\\repos\\furnimpa201\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,76 +66,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251225112345_ListAddedToEmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Migrations\\20251225112345_ListAddedToEmployeeTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251225112345_ListAddedToEmployeeTable.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Migrations\\20251225112345_ListAddedToEmployeeTable.cs",
+              "RelativeToolTip": "Migrations\\20251225112345_ListAddedToEmployeeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:23:45.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:23:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:01:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:00:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:00:27.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:38:18.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Models\\Blog.cs*",
+              "RelativeToolTip": "Models\\Blog.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:20:31.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-24T10:32:24.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-24T10:31:46.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAYwH0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv40AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T10:31:10.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Index.cshtml*",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml*",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T10:16:34.419Z",
+              "DocumentIndex": 11,
+              "Title": "20251225103513_TablesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Migrations\\20251225103513_TablesAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251225103513_TablesAdded.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Migrations\\20251225103513_TablesAdded.cs",
+              "RelativeToolTip": "Migrations\\20251225103513_TablesAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:35:13.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T10:16:08.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
@@ -113,6 +223,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T10:15:42.12Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T10:16:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\FurniMPA201\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T10:16:08.071Z"
             }
           ]
         }

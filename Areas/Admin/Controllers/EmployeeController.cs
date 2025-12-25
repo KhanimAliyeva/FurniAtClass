@@ -1,6 +1,7 @@
 ﻿using FurniMpa201.Context;
 using FurniMpa201.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace FurniMpa201.Areas.Admin.Controllers
 {
@@ -13,7 +14,10 @@ namespace FurniMpa201.Areas.Admin.Controllers
         {
             _context = context;
         }
-
+        private void SendCategoriesWithViewBag()
+        {
+            ViewBag.Categories = _context.Employees.ToList();
+        }
         public IActionResult Index()
         {
             var employees = _context.Employees.ToList();
@@ -23,10 +27,12 @@ namespace FurniMpa201.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult Create()
         {
+            SendCategoriesWithViewBag();
             return View();
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Create(Employee employee)
         {
             if (!ModelState.IsValid)
@@ -42,6 +48,7 @@ namespace FurniMpa201.Areas.Admin.Controllers
         }
 
         [HttpGet]
+        [ValidateAntiForgeryToken]
         public IActionResult Edit(int id)
         {
             var employee = _context.Employees.FirstOrDefault(e => e.Id == id);

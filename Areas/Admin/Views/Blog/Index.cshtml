@@ -1,0 +1,80 @@
+﻿@using FurniMpa201.Models
+@model List<Blog>
+<div class="container">
+    <div class="row">
+        <a class="btn btn-primary mb-3"
+           asp-area="Admin"
+           asp-controller="blog"
+           asp-action="Create">
+			Create New Blog
+		</a>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Text</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">CreatedDate</th>
+                    <th scope="col">UpdatedDate</th>
+                    <th scope="col">Actions</th>
+                    <th scope="col">Activeness</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var blog in Model)
+                {
+                    <tr>
+                        <th scope="row">@blog.Id</th>
+                        <td>@blog.Title</td>
+                        <td>@blog.Text</td>
+                        <td>
+                            <img src="@blog.ImageUrl" width="40" height="40" />
+                        </td>
+                        <td>@blog.CreatedDate.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>@blog.UpdatedDate.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>
+                            <a class="btn btn-warning"
+                               asp-area="Admin"
+                               asp-controller="blog"
+                               asp-action="Update"
+                               asp-route-id="@blog.Id">
+                                <i class="fas fa-edit"></i>
+                            </a>
+
+                            <form asp-area="Admin"
+                                  asp-controller="blog"
+                                  asp-action="Delete"
+                                  method="post"
+                                  asp-route-id="@blog.Id"
+                                  style="display:inline">
+                                <button class="btn btn-danger" type="submit">
+                                    <i class="fas fa-trash-alt"></i>
+                                </button>
+                            </form>
+                        </td>
+
+                        <td>
+                            <form asp-area="Admin"
+                                  asp-controller="blog"
+                                  asp-action="SoftDelete"
+                                  method="post"
+                                  asp-route-id="@blog.Id"
+                                  style="display:inline">
+
+                                <button type="submit"
+                                        class="btn @(blog.IsDeleted ? "btn-success" : "btn-danger")">
+                                    @(blog.IsDeleted ? "Active" : "Inactive")
+                                </button>
+
+                            </form>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
