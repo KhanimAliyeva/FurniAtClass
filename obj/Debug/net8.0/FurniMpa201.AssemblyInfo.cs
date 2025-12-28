@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FurniMpa201")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+159240b2a6344364e67066bbc86189d20726d0b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6663568f383a1f62f0b27a0e14e997d09147ef9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FurniMpa201")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FurniMpa201")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
